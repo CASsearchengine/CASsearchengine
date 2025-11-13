@@ -1,0 +1,3089 @@
+[
+  {
+    "CAS": "100-02-7",
+    "Name": "p-Nitrophenol",
+    "Sublocation": "B4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/241326?userType=anonymous"
+  },
+  {
+    "CAS": "100-47-0",
+    "Name": "Benzonitrile",
+    "Sublocation": "J2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/294098?userType=undefined"
+  },
+  {
+    "CAS": "100-66-3",
+    "Name": "Anisole, Methoxybenzene",
+    "Sublocation": "J1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/296295?userType=undefined"
+  },
+  {
+    "CAS": "100209-45-8",
+    "Name": "Bacto Peptone",
+    "Sublocation": "N1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/29185?userType=anonymous"
+  },
+  {
+    "CAS": "10022-31-8",
+    "Name": "Barium Nitrate",
+    "Sub-location": "A1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/Aldrich/202754?srsltid=AfmBOoqk64iHvoDIQpJVoCE8ijOJqQyOUy__jWMO7i6QgROdU524vv3W"
+  },
+  {
+    "CAS": "10026-06-9",
+    "Name": "Tin (IV) chloride hydrate, Tin (IV) chloride pentahydrate, stannic chloride",
+    "Type": "Chemical",
+    "Category": "White (corrosive)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A3",
+    "URL": "https://www.sigmaaldrich.cn/US/en/sds/sigald/244678"
+  },
+  {
+    "CAS": "10034-96-5",
+    "Name": "Manganese (II) sulfate monohydrate",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "R4, top shelf",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/m7634"
+  },
+  {
+    "CAS": "10034-99-8",
+    "Name": "Magnesium sulfate 7-hydrate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/230391?userType=anonymous"
+  },
+  {
+    "CAS": "10042-76-9",
+    "Name": "Strontium nitrate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/243426"
+  },
+  {
+    "CAS": "10043-35-3",
+    "Name": "Boric Acid",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/b0394?userType=anonymous"
+  },
+  {
+    "CAS": "10043-52-4",
+    "Name": "Calcium Chloride",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/c4901?userType=anonymous"
+  },
+  {
+    "CAS": "10049-05-5",
+    "Name": "Chromium Chloride",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/450782?userType=anonymous"
+  },
+  {
+    "CAS": "10049-21-5",
+    "Name": "Sodium Phosphate Monobasic",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/s9638?userType=anonymous"
+  },
+  {
+    "CAS": "10099-74-8",
+    "Name": "Lead nitrate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "205/Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/228621"
+  },
+  {
+    "CAS": "101-20-2",
+    "Name": "3,4,4'-trichlorocarbanilide",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/105937?userType=anonymous"
+  },
+  {
+    "CAS": "10101-89-0",
+    "Name": "Sodium Phosphate Tribasic",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/222003?userType=anonymous"
+  },
+  {
+    "CAS": "10108-64-2",
+    "Name": "Cadmium chloride",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/c8106?userType=undefined"
+  },
+  {
+    "CAS": "10196-18-6",
+    "Name": "Zinc nitrate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/228737?userType=anonymous "
+  },
+  {
+    "CAS": "103-30-0",
+    "Name": "trans-Stilbene",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B5",
+    "URL": "https://www.sigmaaldrich.cn/US/en/sds/aldrich/139939"
+  },
+  {
+    "CAS": "103-84-4",
+    "Name": "Acetanilide",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/112933"
+  },
+  {
+    "CAS": "103-90-2",
+    "Name": "4-Acetamidophenol, acetaminophen",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/a3035"
+  },
+  {
+    "CAS": "10326-27-9",
+    "Name": "Barium Chloride",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/b0750?userType=anonymous "
+  },
+  {
+    "CAS": "10378-23-1",
+    "Name": "Ethylenediamine tetraacetic acid, Tetrasodium, Salt",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/ed4ss?userType=anonymous"
+  },
+  {
+    "CAS": "10476-85-4",
+    "Name": "Strontium Chloride",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/439665?userType=anonymous"
+  },
+  {
+    "CAS": "106-42-3",
+    "Name": "Xylene,p",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/296333?userType=anonymous"
+  },
+  {
+    "CAS": "106-95-6",
+    "Name": "Bromopropene, (3-)",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/8.01021?userType=anonymous"
+  },
+  {
+    "CAS": "107-05-1",
+    "Name": "Chloropropene, (3)",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/a30702?srsltid=AfmBOooEY74nmsqWAGE7fmhy4TDYTym2HJJMbpB3aWOlZqJFCZcsFg-B"
+  },
+  {
+    "CAS": "107-06-2",
+    "Name": "Dichloroethane, 1,2",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K1",
+    "URL": "https://www.sigmaaldrich.com/US/de/sds/SIAL/284505?userType=undefined"
+  },
+  {
+    "CAS": "107-87-9",
+    "Name": "Pentanone,2",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M1",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AC224130010&countryCode=US&language=en"
+  },
+  {
+    "CAS": "107-92-6",
+    "Name": "Butyric Acid, n",
+    "Type": "Chemical",
+    "Category": "purple (acid)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "I3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/b103500?userType=anonymous"
+  },
+  {
+    "CAS": "108-10-1",
+    "Name": "Methyl Isobutyl Ketone",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/w273104?userType=undefined&srsltid=AfmBOoonljf-0qU9x7Cv7QKBC8vpuwArfBSc540LqVbqX-Ccylin8lNC"
+  },
+  {
+    "CAS": "108-19-0",
+    "Name": "Biuret",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "micro",
+    "Requested By": "Chris Bieszczad",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/15270?userType=anonymous"
+  },
+  {
+    "CAS": "108-19-0",
+    "Name": "Biuret",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "CW box",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/15270?userType=anonymous"
+  },
+  {
+    "CAS": "108-24-7",
+    "Name": "Acetic Anhydride",
+    "Type": "Chemical",
+    "Category": "purple (acid)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "I3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/33214?userType=anonymous"
+  },
+  {
+    "CAS": "108-38-3",
+    "Name": "Xylene, m",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/296325?userType=anonymous"
+  },
+  {
+    "CAS": "108-87-2",
+    "Name": "Methylcyclohexane",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M1",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AC126580010&productDescription=METHYLCYCLOHEXANE%2C+99%25+1LT&vendorId=VN00032119&countryCode=US&language=en"
+  },
+  {
+    "CAS": "108-88-3",
+    "Name": "Toluene",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/244511?srsltid=AfmBOorBhXCY06lxeIs5CYh3EEQyGYtOp7YuqbwbZ_e6vTZX56GzmPtW"
+  },
+  {
+    "CAS": "108-93-0",
+    "Name": "Cyclohexanol",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J3",
+    "URL": "https://www.sigmaaldrich.cn/US/en/sds/sial/105899"
+  },
+  {
+    "CAS": "108-95-2",
+    "Name": "Phenol",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/p4682?userType=anonymous "
+  },
+  {
+    "CAS": "108-95-2",
+    "Name": "Phenol, liquified",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/16018?userType=undefined"
+  },
+  {
+    "CAS": "109-69-3",
+    "Name": "Chlorobutane, 1",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/414255?srsltid=AfmBOorWPMf7ll4QFB8FXxzZOycQ3H9Y_7ZNYNFuo2W15ixPjHVrfj6A"
+  },
+  {
+    "CAS": "110-00-9",
+    "Name": "Furan",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B3",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/185922?userType=anonymous"
+  },
+  {
+    "CAS": "110-15-6",
+    "Name": "Succinic Acid",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/398055?userType=anonymous"
+  },
+  {
+    "CAS": "110-43-0",
+    "Name": "Heptanone, 2",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/w254401?srsltid=AfmBOopNV-qzZVUvBRuP731tjLVavaL-pIRpzBQNPS3QL87BJhdGCSus"
+  },
+  {
+    "CAS": "110-54-3",
+    "Name": "Hexanes, Hexane",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/296090?userType=anonymous&srsltid=AfmBOooIKP_Tqf9fDXj4a2APbvBPXCeMkQkbx8jeCxfEwR6pTlD5U6pz"
+  },
+  {
+    "CAS": "110-82-7",
+    "Name": "Cyclohexane",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J3",
+    "URL": "https://www.sigmaaldrich.com/US/de/sds/sial/227048?userType=undefined"
+  },
+  {
+    "CAS": "110-83-8",
+    "Name": "Cyclohexene",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/44028?userType=undefined"
+  },
+  {
+    "CAS": "110-86-1",
+    "Name": "Pyridine",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/270970?userType=undefined"
+  },
+  {
+    "CAS": "110-89-4",
+    "Name": "Piperdine",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/104094?srsltid=AfmBOop9rRyXoT7PLoCeTU_Wsc0jkGrZsgzv3vM_YYNRjE5KJLt2mG0k"
+  },
+  {
+    "CAS": "111-27-3",
+    "Name": "Hexanol-1",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/w256706?srsltid=AfmBOooGbGZVfiMcoBi3xx7RKKPtLBKt-yBrwQfDjSdFw6b6kk-wTqWO"
+  },
+  {
+    "CAS": "11119-67-8",
+    "Name": "Dowex 50w x 8, 200-400 mesh",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D2",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AAL1392230&productDescription=DOWEX+50WX8+200-400+H+250G&vendorId=VN00024248&countryCode=US&language=en"
+  },
+  {
+    "CAS": "1115-63-5",
+    "Name": "Aspartic (L) acid, potassium salt",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/a6558?userType=anonymous"
+  },
+  {
+    "CAS": "112-53-8",
+    "Name": "Dodecyl alcohol",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/SIAL/44095?srsltid=AfmBOor14V6bSrKhmScdWBsvTqitZZ5JjBqTcyzBbNDZJUSrQ2OVBv9l"
+  },
+  {
+    "CAS": "112926-00-8",
+    "Name": "Silica Gel",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/717185?userType=anonymous"
+  },
+  {
+    "CAS": "112945-52-5",
+    "Name": "Silica",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/s5130?userType=anonymous"
+  },
+  {
+    "CAS": "1135-40-6",
+    "Name": "Cyclohexylamino-1-propanesulfonic acid, 3, CAPS",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/c2632?userType=anonymous"
+  },
+  {
+    "CAS": "1185-53-1",
+    "Name": "Trizma Hydrochloride",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/t3253?userType=anonymous"
+  },
+  {
+    "CAS": "1185-57-5",
+    "Name": "Iron Ferric Ammonium Citrate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/f5879?userType=anonymous"
+  },
+  {
+    "CAS": "119-26-6",
+    "Name": "Dinitrophenylhydrazine, 2,4",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/d199303?srsltid=AfmBOopd_kPIr2E_Zo1Lura3sCEX0sR8QcHMOtqdxEOPJGluEOjGW5gI"
+  },
+  {
+    "CAS": "119-36-8",
+    "Name": "Methyl Salicylate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E2",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/m6752?userType=anonymous"
+  },
+  {
+    "CAS": "120-12-7",
+    "Name": "Anthracene",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/141062?userType=anonymous"
+  },
+  {
+    "CAS": "12054-85-2",
+    "Name": "Ammonium Molybdate Tetrahydrate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/1.01182?userType=anonymous"
+  },
+  {
+    "CAS": "121-33-5",
+    "Name": "Vanillin",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/30304"
+  },
+  {
+    "CAS": "121-44-8",
+    "Name": "Triethylamine",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/t0886?userType=undefined"
+  },
+  {
+    "CAS": "12125-02-9",
+    "Name": "Ammonium Chloride",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/213330?userType=anonymous"
+  },
+  {
+    "CAS": "12167-74-7",
+    "Name": "Calcium Phosphate-Tribasic",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C4",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/677418?userType=anonymous"
+  },
+  {
+    "CAS": "122965-43-9",
+    "Name": "Methylene Blue",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E2",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/m9140?userType=anonymous"
+  },
+  {
+    "CAS": "12298-68-9",
+    "Name": "Gram's Iodine",
+    "Type": "Chemical",
+    "Category": "White (corrosive)",
+    "Location": "Micro cabinet (Ivey 203)",
+    "Sub-location": "",
+    "URL": "https://datasheets.scbt.com/sds/aghs/en/sc-358803.pdf"
+  },
+  {
+    "CAS": "123-38-6",
+    "Name": "Propionaldehyde",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/w292303?userType=undefined"
+  },
+  {
+    "CAS": "123-51-3",
+    "Name": "Isoamyl alcohol",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K3",
+    "URL": "https://www.sigmaaldrich.com/US/fr/sds/aldrich/w205702?userType=undefined"
+  },
+  {
+    "CAS": "123-86-4",
+    "Name": "Butyl Acetate",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/SIAL/287725?userType=undefined"
+  },
+  {
+    "CAS": "123333-66-4",
+    "Name": "Potassium Tellurite",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B4",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AA4195914&productDescription=POT+TELLURITE+MONOHYD+97%25+25G&vendorId=VN00024248&countryCode=US&language=en"
+  },
+  {
+    "CAS": "124-04-9",
+    "Name": "Adipic Acid",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/a26357?userType=anonymous"
+  },
+  {
+    "CAS": "12661-84-6",
+    "Name": "Nichrome Wire",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E2",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.materion.com/en/resources/environmental-health-safety/safety-data-sheets/DownloadSds?sdsId=1XR_NICKEL-CHROMIUM%20_SDS-US_English.pdf "
+  },
+  {
+    "CAS": "127-08-2",
+    "Name": "Potassium Acetate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/236497?userType=anonymous"
+  },
+  {
+    "CAS": "127-09-3",
+    "Name": "Sodium Acetate, Anhydrous",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/s8750?userType=anonymous"
+  },
+  {
+    "CAS": "1305-62-0",
+    "Name": "Calcium Hydroxide",
+    "Type": "Chemical",
+    "Category": "White (corrosive)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/239232?userType=anonymous "
+  },
+  {
+    "CAS": "1309-42-8",
+    "Name": "Magnesium Hydroxide",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/310093?userType=anonymous"
+  },
+  {
+    "CAS": "1310-58-3",
+    "Name": "Potassium hydroxide",
+    "Type": "Chemical",
+    "Category": "White (corrosive)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/221473?userType=anonymous "
+  },
+  {
+    "CAS": "1310-73-2",
+    "Name": "Sodium Hydroxide",
+    "Type": "Chemical",
+    "Category": "White (corrosive)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/221465?userType=anonymous "
+  },
+  {
+    "CAS": "13106-76-8",
+    "Name": "Ammonium Molybdate",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/277908?userType=anonymous "
+  },
+  {
+    "CAS": "1313-82-2",
+    "Name": "Sodium Sulfide",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/407410?userType=anonymous "
+  },
+  {
+    "CAS": "1336-21-6",
+    "Name": "Ammonium Hydroxide",
+    "Type": "Chemical",
+    "Category": "white (corrosive)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/221228?userType=anonymous "
+  },
+  {
+    "CAS": "134-62-3",
+    "Name": "N,N-Diethyl-m-toluamide",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/d100951?userType=anonymous"
+  },
+  {
+    "CAS": "1344-28-1",
+    "Name": "Boileezers",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/199443?userType=anonymous"
+  },
+  {
+    "CAS": "13446-18-9",
+    "Name": "Magnesium nitrate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/vetec/v001128?userType=undefined"
+  },
+  {
+    "CAS": "13463-43-9",
+    "Name": "Iron (II) ferrous sulfate, dried",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/450278"
+  },
+  {
+    "CAS": "135-19-3",
+    "Name": "Naphthol, 2",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/185507?userType=anonymous"
+  },
+  {
+    "CAS": "13755-38-9",
+    "Name": "Sodium Nitroferricyanide",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/228710?userType=anonymous"
+  },
+  {
+    "CAS": "140-10-3",
+    "Name": "trans-Cinnamic acid",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/c80857?userType=anonymous"
+  },
+  {
+    "CAS": "1400-61-9",
+    "Name": "Nystatin",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Ivey 203",
+    "Sub-location": "R4",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=BP29495&productDescription=NYSTATIN+5+G&vendorId=VN00033897&countryCode=US&language=en "
+  },
+  {
+    "CAS": "141-78-6",
+    "Name": "Ethyl acetate",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/270989?userType=undefined"
+  },
+  {
+    "CAS": "141-82-2",
+    "Name": "Malonic acid",
+    "Type": "Chemical",
+    "Category": "White (corrosive)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/m1296"
+  },
+  {
+    "CAS": "1415-93-6",
+    "Name": "Humic acid",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/53680?userType=anonymous"
+  },
+  {
+    "CAS": "143-74-8",
+    "Name": "Phenol Red",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/1.07241?userType=anonymous"
+  },
+  {
+    "CAS": "144-55-8",
+    "Name": "Sodium Bicarbonate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/s6014?userType=anonymous"
+  },
+  {
+    "CAS": "144-55-8",
+    "Name": "Sodium Bicarbonate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "CW box",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/s6014?userType=anonymous"
+  },
+  {
+    "CAS": "147-71-7",
+    "Name": "Tartaric-d Acid",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/t206?userType=anonymous"
+  },
+  {
+    "CAS": "14808-60-7",
+    "Name": "Sand, sea",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/274739?userType=anonymous"
+  },
+  {
+    "CAS": "149-73-5",
+    "Name": "Trimethyl orthoformate",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/108456?userType=undefined"
+  },
+  {
+    "CAS": "151-21-3",
+    "Name": "sodium sulfate, sodium dodecyl sulfate, sodium lauryl sulfate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/l3771?userType=anonymous"
+  },
+  {
+    "CAS": "15687-27-1",
+    "Name": "Ibuprofen, 4-isobutyl-a-methylphenylacetic acid",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B3",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.sigmaaldrich.cn/US/en/sds/sigma/i4883"
+  },
+  {
+    "CAS": "1633-05-2",
+    "Name": "Strontium Carbonate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F2",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/472018?userType=anonymous"
+  },
+  {
+    "CAS": "1634-04-4",
+    "Name": "Methyl tert-butyl ether",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/306975?userType=undefined"
+  },
+  {
+    "CAS": "1787-61-7",
+    "Name": "Eriochrome Black T",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/1.03170?userType=anonymous"
+  },
+  {
+    "CAS": "21645-51-2",
+    "Name": "Aluminum Hydroxide",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/239186?userType=anonymous"
+  },
+  {
+    "CAS": "24634-61-5",
+    "Name": "Potassium Sorbate",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/1.05119?userType=anonymous"
+  },
+  {
+    "CAS": "25316-40-9",
+    "Name": "Doxorubicin hydrochloride powder",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "F 203, door",
+    "Sub-location": "",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/d1515"
+  },
+  {
+    "CAS": "25956-17-6",
+    "Name": "FD&C Red dye #40",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D3",
+    "URL": "https://www.flinnsci.com/sds_843.2-fdc-red-40-food-dye/sds_843.2/"
+  },
+  {
+    "CAS": "28300-74-5",
+    "Name": "Antimony Potassium Tartrate",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/383376?userType=anonymous "
+  },
+  {
+    "CAS": "298-14-6",
+    "Name": "Potassium Bicarbonate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/237205?userType=anonymous"
+  },
+  {
+    "CAS": "3051-09-0",
+    "Name": "Murexide Powder",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/1.06161?userType=anonymous"
+  },
+  {
+    "CAS": "331753-56-1",
+    "Name": "potassium antimony (III)tartrate hydrate",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Ivey 102B",
+    "Sub-location": "O2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/244791?userType=anonymous"
+  },
+  {
+    "CAS": "333-20-0",
+    "Name": "Potassium Thiocyanate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/p3011?userType=anonymous"
+  },
+  {
+    "CAS": "333338-18-4",
+    "Name": "4-Nitrophenyl phosphate disodium salt hexahydrate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Ivey 203",
+    "Sub-location": "R4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/n2765"
+  },
+  {
+    "CAS": "3380-34-5",
+    "Name": "5-Chloro-2-(2,4-dichlorophenoxy)phenol",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/72779?userType=anonymous "
+  },
+  {
+    "CAS": "36877-69-7",
+    "Name": "Rhodamine B Isothiocyanate",
+    "Type": "Enzyme",
+    "Category": "Blue (health)",
+    "Location": "F2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/283924?userType=anonymous"
+  },
+  {
+    "CAS": "39409-82-0",
+    "Name": "Magnesium Carbonate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/63062?userType=anonymous"
+  },
+  {
+    "CAS": "39416-48-3",
+    "Name": "pyridine hydrobromide perbromide, pyridinium tribromide",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Requested By": "Jim Killarney",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AC442132500&productDescription=PYRIDINE+HYDROBROMIDE+9+250GR&vendorId=VN00032119&countryCode=US&language=en"
+  },
+  {
+    "CAS": "39416-48-3",
+    "Name": "Pyridinum tribromide, pyridine hydrobromide perbromide, pyridinium tribromide",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.sigmaaldrich.cn/US/en/sds/aldrich/133248"
+  },
+  {
+    "CAS": "404-86-4",
+    "Name": "Capsaicin",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "CW box",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/m2028"
+  },
+  {
+    "CAS": "4197-24-4",
+    "Name": "Carbol Fuchsin",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Prep Area (Ivey 203)",
+    "Sub-location": "Micro Closet",
+    "URL": "https://www.spectrumchemical.com/media/sds/C3966_AGHS.pdf"
+  },
+  {
+    "CAS": "458-37-7",
+    "Name": "Ninhydrin spray solution",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M1",
+    "URL": "https://www.fishersci.com/content/dam/fishersci/en_US/documents/programs/education/regulatory-documents/sds/chemicals/chemicals-n/S25448.pdf"
+  },
+  {
+    "CAS": "7/3/30",
+    "Name": "(+)-valencene ",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Prep Area (Ivey 203)",
+    "Sub-location": "REF1",
+    "URL": "https://cdn.caymanchem.com/cdn/seawolf/msds/23167m.pdf"
+  },
+  {
+    "CAS": "4674-50-4",
+    "Name": "(+) Nootkatone",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Prep Area (Ivey 203)",
+    "Sub-location": "REF1",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/74437?userType=anonymous"
+  },
+  {
+    "CAS": "471-34-1",
+    "Name": "Calcium Carbonate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/239216?userType=anonymous"
+  },
+  {
+    "CAS": "477-73-6",
+    "Name": "Safranin o-certified",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Prep Area (Ivey 203)",
+    "Sub-location": "Micro Closet",
+    "Quantity": "4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/s8884?userType=anonymous"
+  },
+  {
+    "CAS": "482-89-3",
+    "Name": "Indigo",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/229296?userType=anonymous"
+  },
+  {
+    "CAS": "485-47-2",
+    "Name": "Ninhydrin",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/151173?userType=anonymous"
+  },
+  {
+    "CAS": "492-62-6",
+    "Name": "Dextrose a-D-Glucose (mixture of Glucoses)",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/158968"
+  },
+  {
+    "CAS": "497-19-8",
+    "Name": "Sodium Carbonate, Anhydrous",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/223530?userType=anonymous"
+  },
+  {
+    "CAS": "50-00-0",
+    "Name": "Formaldehyde",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/f8775?userType=anonymous "
+  },
+  {
+    "CAS": "50-21-5",
+    "Name": "DL-Lactic acid",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/69785?userType=anonymous "
+  },
+  {
+    "CAS": "50-78-2",
+    "Name": "Acetylsalicylic acid",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/a5376?userType=anonymous"
+  },
+  {
+    "CAS": "50-81-7",
+    "Name": "L-Ascorbic Acid (Crystalline/Certified ACS), Fisher Chemical - Glass Bottle; 100g",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C2",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/a4403?userType=anonymous"
+  },
+  {
+    "CAS": "50-99-7",
+    "Name": "Dextrose (D-Glucose)",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D2",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AC450740050&productDescription=D%28%2B%29-GLUCOSE+MONOHYDRATE+5KG&vendorId=VN00032119&countryCode=US&language=en"
+  },
+  {
+    "CAS": "507-20-0",
+    "Name": "Chloro 2 methyl propane, 2; tert-butyl chloride; t-butyl chloride",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/19780?userType=undefined"
+  },
+  {
+    "CAS": "513-36-0",
+    "Name": "Chloro 2 methylpropane, 1",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/ALDRICH/178004?srsltid=AfmBOor09inH0XWHAg1t7J9Yc-BlhK3QAZLvIYefHJb-79qv7VDMxbp5"
+  },
+  {
+    "CAS": "5144-89-8",
+    "Name": "1,10-Phenanthroline monohydrate, 99%, Size=10 g",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E3",
+    "Requested By": "Teriko MacConnell",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/1.07225?userType=anonymous"
+  },
+  {
+    "CAS": "52-90-4",
+    "Name": "Cysteine, L free base",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/168149?userType=anonymous"
+  },
+  {
+    "CAS": "527-09-3",
+    "Name": "Copper Gluconate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D2",
+    "URL": "https://www.sigmaaldrich.cn/US/en/sds/aldrich/344419"
+  },
+  {
+    "CAS": "532-32-1",
+    "Name": "Sodium Benzoate",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B5",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/phr1231?userType=anonymous "
+  },
+  {
+    "CAS": "5328-37-0",
+    "Name": "Arabinose",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C2",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/a3256?userType=anonymous"
+  },
+  {
+    "CAS": "540-84-1",
+    "Name": "Trimethylpentane",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/360066?userType=anonymous"
+  },
+  {
+    "CAS": "547-58-0",
+    "Name": "Methyl Orange",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/1.01322?userType=anonymous"
+  },
+  {
+    "CAS": "5470-11-1",
+    "Name": "Hydroxylamine hydrochloride",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/431362?userType=anonymous"
+  },
+  {
+    "CAS": "548-62-9",
+    "Name": "Crystal Violet",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/v5265?userType=anonymous"
+  },
+  {
+    "CAS": "55-21-0",
+    "Name": "Benzamide ",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/8.02191?userType=anonymous"
+  },
+  {
+    "CAS": "556-50-3",
+    "Name": "Glycylglycine (GLY-GLY)",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/g0674?userType=anonymous"
+  },
+  {
+    "CAS": "56-40-6",
+    "Name": "Glycine Plus One",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D4",
+    "URL": "https://www.sigmaaldrich.cn/US/en/sds/usp/1295800"
+  },
+  {
+    "CAS": "56-45-1",
+    "Name": "L-Serine",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/s4500"
+  },
+  {
+    "CAS": "56-81-5",
+    "Name": "Glycerol, glycerin, glycerine",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/g7893?userType=anonymous"
+  },
+  {
+    "CAS": "56-85-9",
+    "Name": "L-Glutamine",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/g7513?userType=anonymous"
+  },
+  {
+    "CAS": "56-86-0",
+    "Name": "L-Glutamic Acid, ( L-)",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/g1251?userType=anonymous"
+  },
+  {
+    "CAS": "56-87-1",
+    "Name": "L-Lysine",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/l5501?userType=anonymous"
+  },
+  {
+    "CAS": "56296-78-7",
+    "Name": "Fluoxetine Hydrochloride",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/f132"
+  },
+  {
+    "CAS": "569-64-2",
+    "Name": "Malachite Green",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/38800?userType=anonymous"
+  },
+  {
+    "CAS": "57-13-6",
+    "Name": "Urea",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/u5378?userType=anonymous"
+  },
+  {
+    "CAS": "57-48-7",
+    "Name": "D-(-)-Fructose",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/f0127?userType=anonymous"
+  },
+  {
+    "CAS": "57-50-1",
+    "Name": "Sucrose",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/s0389?userType=anonymous"
+  },
+  {
+    "CAS": "57-88-5",
+    "Name": "Cholesterol",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/c8503"
+  },
+  {
+    "CAS": "5794-13-8",
+    "Name": "L-Asparagine",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/a7094?userType=anonymous"
+  },
+  {
+    "CAS": "58-08-2",
+    "Name": "Caffeine",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/c53?userType=anonymous"
+  },
+  {
+    "CAS": "584-08-7",
+    "Name": "Potassium Carbonate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/209619?userType=anonymous"
+  },
+  {
+    "CAS": "59-92-7",
+    "Name": "3,4-Dihydroxy-L-phenylalanine, L-DOPA",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/d009"
+  },
+  {
+    "CAS": "60-00-4",
+    "Name": "Ethylenediamine tetraacetic acid",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/e8008?userType=anonymous"
+  },
+  {
+    "CAS": "60-18-4",
+    "Name": "Tyrosine, L  -DL",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/t8566?userType=anonymous"
+  },
+  {
+    "CAS": "60-24-2",
+    "Name": "Mercaptoethanol-2",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M1",
+    "URL": "https://www.sigmaaldrich.com/US/pt/sds/aldrich/m6250?userType=undefined"
+  },
+  {
+    "CAS": "60-29-7",
+    "Name": "Ethyl Ether",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/296082?srsltid=AfmBOoryunh2o0Yd_sUnCj2QoD7hwLgxLlBZ170uiXhpiz00JpH3Dl2J"
+  },
+  {
+    "CAS": "6009-70-7",
+    "Name": "Ammonium Oxalate monohydrate",
+    "Type": "Chemical",
+    "Category": "White (corrosive)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/379743?userType=anonymous"
+  },
+  {
+    "CAS": "603-108-00-1",
+    "Name": "Butanol, iso",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/w217905?srsltid=AfmBOor5th3BlHhYBHNUUdlGQV1VtV7ltK_pYlKUo8XWM0FbvL7YcUL_"
+  },
+  {
+    "CAS": "609-36-9",
+    "Name": "Proline, DL",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/171824?userType=anonymous"
+  },
+  {
+    "CAS": "61-90-5",
+    "Name": "L-Leucine",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/l8912?userType=anonymous"
+  },
+  {
+    "CAS": "6100-05-6",
+    "Name": "Tripotassium citrate monohydrate, 99%",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/c8385?userType=anonymous"
+  },
+  {
+    "CAS": "6132-04-3",
+    "Name": "Sodium Citrate, dihydrate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/1.06448?userType=anonymous"
+  },
+  {
+    "CAS": "61790-53-2",
+    "Name": "Celite, Diatomaceous Earth",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/06858?userType=anonymous"
+  },
+  {
+    "CAS": "62-53-3",
+    "Name": "Aniline",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/132934"
+  },
+  {
+    "CAS": "626-93-7",
+    "Name": "Hexanol, 2",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/128570?userType=anonymous"
+  },
+  {
+    "CAS": "63-91-2",
+    "Name": "L-Phenylalinine",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D5",
+    "URL": "https://www.sigmaaldrich.cn/US/en/sds/sial/w358512"
+  },
+  {
+    "CAS": "631-61-8",
+    "Name": "Ammonium Acetate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/238074?userType=anonymous"
+  },
+  {
+    "CAS": "6363-53-7",
+    "Name": "Maltose",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/63418?userType=anonymous"
+  },
+  {
+    "CAS": "6381-92-6",
+    "Name": "EDTA, Disodium Salt",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/e5134?userType=anonymous"
+  },
+  {
+    "CAS": "64-17-5",
+    "Name": "Ethanol, 70%, Biotechnology Grade, ETHANOL, 70%",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K1",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=BP82011&productDescription=ETHANOL&vendorId=VN00033897&countryCode=US&language=en"
+  },
+  {
+    "CAS": "64-17-5",
+    "Name": "Ethanol, 95%, Ethyl Alcohol, Absolute",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/ex0280?userType=anonymous"
+  },
+  {
+    "CAS": "64-17-5",
+    "Name": "Ethyl alcohol, Absolute ethanol, 200 proof",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/SIAL/792780?srsltid=AfmBOopeHpZOfWOUBaJhBg315YXKkbOzrMZ2_ENFdk6zYp1X9FZYVi0K"
+  },
+  {
+    "CAS": "64-17-5",
+    "Name": "Ethyl alcohol, reagent grade, Ethanol",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/362808?userType=anonymous"
+  },
+  {
+    "CAS": "64-17-5",
+    "Name": "Reagent Alcohol 95%",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "J1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/793183?userType=anonymous"
+  },
+  {
+    "CAS": "64-18-6",
+    "Name": "Formic Acid",
+    "Type": "Chemical",
+    "Category": "purple (acid)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "I3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/f0507?userType=anonymous"
+  },
+  {
+    "CAS": "64-19-7",
+    "Name": "Acetic acid",
+    "Type": "Chemical",
+    "Category": "purple (acid)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "I3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/695092?userType=anonymous"
+  },
+  {
+    "CAS": "64742-49-0",
+    "Name": "Petroleum Ether",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/32299?userType=undefined"
+  },
+  {
+    "CAS": "65-85-0",
+    "Name": "Benzoic acid",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/242381?userType=anonymous"
+  },
+  {
+    "CAS": "65272-70-0",
+    "Name": "Jones Reagent",
+    "Type": "Chemical",
+    "Category": "White (corrosive)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/758035"
+  },
+  {
+    "CAS": "65997-17-3",
+    "Name": "Glass Wool",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "205",
+    "Sub-location": "",
+    "URL": "https://www.emdmillipore.com/US/en/product/msds/MDA_CHEM-104086"
+  },
+  {
+    "CAS": "65997-17-3",
+    "Name": "Glass Wool",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B3",
+    "URL": "https://www.emdmillipore.com/US/en/product/msds/MDA_CHEM-104086"
+  },
+  {
+    "CAS": "66-71-7",
+    "Name": "1,10-phenanthroline",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/131377?userType=anonymous"
+  },
+  {
+    "CAS": "66-84-2",
+    "Name": "Glucosamine D(+)",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/g4875?userType=anonymous"
+  },
+  {
+    "CAS": "67-03-8",
+    "Name": "Thiamine  Hydrochloride",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/t1270?userType=anonymous"
+  },
+  {
+    "CAS": "67-56-1",
+    "Name": "Methanol, Methyl alcohol",
+    "Name": "Alcohol",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/322415?userType=undefined"
+  },
+  {
+    "CAS": "67-63-0",
+    "Name": "Isopropyl alcohol",
+    "Name":"alcohol",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K2",
+    "URL": "https://www.sigmaaldrich.com/US/de/sds/SIGMA/I9516?userType=undefined"
+
+  },
+  {
+    "CAS": "67-63-0",
+    "Name": "2-propanol", 
+    "URL": "https://www.sigmaaldrich.com/US/de/sds/SIGMA/I9516?userType=undefined"
+
+  },
+  {
+    "CAS": "67-64-1",
+    "Name": "Acetone",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J1",
+    "URL": "https://www.chemicalbook.com/ProductChemicalPropertiesCB3130928_EN.htm"
+  },
+  {
+    "CAS": "67-66-3",
+    "Name": "Chloroform",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/1.07024?userType=anonymous"
+  },
+  {
+    "CAS": "67-68-5",
+    "Name": "Dimethyl Sulfide, Dimethyl sulfoxide",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Ivey 202B",
+    "Sub-location": "",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/41639"
+  },
+  {
+    "CAS": "673-06-3",
+    "Name": "D-phenylalinine",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/p1751"
+  },
+  {
+    "CAS": "68-04-2",
+    "Name": "Sodium citrate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F1",
+    "URL": "https://www.spectrumchemical.com/media/sds/S1986_AGHS.pdf"
+  },
+  {
+    "CAS": "69-72-7",
+    "Name": "Salicylic Acid",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/8.18731?userType=anonymous"
+  },
+  {
+    "CAS": "69011-20-7",
+    "Name": "Dowex monosphere 650C",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D2",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/217514?userType=anonymous"
+  },
+  {
+    "CAS": "71-23-8",
+    "Name": "Propanol, 1, n-propyl alcohol",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/402893?userType=undefined"
+  },
+  {
+    "CAS": "71-36-3",
+    "Name": "Butanol, 1",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M3",
+    "Requested By": "Teriko Macconnell",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/281549?srsltid=AfmBOoq14y4vDBUZ495vaR4QVBXw4Il-ZOPk6IHhixIo17ljSfnG-64S"
+  },
+  {
+    "CAS": "71-41-0",
+    "Name": "n-amyl alcohol, Pentanol, 1-Pentanol",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M1",
+    "URL": "n-Amyl Alcohol (Pentanol) - Safety Data Sheet"
+  },
+  {
+    "CAS": "71-41-0",
+    "Name": "Pentanol, 1-Pentanol, n-amyl alcohol",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/398268?srsltid=AfmBOorxalavknWUAdwpRVtwwcoFqISjFkOjAJc6VxUATW970Z7iJcLL"
+  },
+  {
+    "CAS": "71-43-2",
+    "Name": "Benzene",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/SIGALD/319953"
+  },
+  {
+    "CAS": "72-18-4",
+    "Name": "Valine, L",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/v0513?userType=anonymous"
+  },
+  {
+    "CAS": "72-57-1",
+    "Name": "Trypan Blue",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/t0887"
+  },
+  {
+    "CAS": "7365-45-9",
+    "Name": "Hepes",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "202B",
+    "Sub-location": "",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/h3375?userType=anonymous"
+  },
+  {
+    "CAS": "7385-67-3",
+    "Name": "Nile Red",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/n3013"
+  },
+  {
+    "CAS": "74-79-3",
+    "Name": "Arginine, L",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/a8094?userType=anonymous"
+  },
+  {
+    "CAS": "7429-90-5",
+    "Name": "Aluminum",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/11009?userType=anonymous"
+  },
+  {
+    "CAS": "7439-89-6",
+    "Name": "Iron",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/12310?userType=anonymous"
+  },
+  {
+    "CAS": "7439-95-4",
+    "Name": "Magnesium",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/266302?userType=undefined"
+  },
+  {
+    "CAS": "7440-02-0",
+    "Name": "Nickel",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/577995?userType=anonymous"
+  },
+  {
+    "CAS": "7440-22-4",
+    "Name": "Silver",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/735825?userType=anonymous"
+  },
+  {
+    "CAS": "7440-31-5",
+    "Name": "Tin",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/14509?userType=anonymous"
+  },
+  {
+    "CAS": "7440-44-0",
+    "Name": "Decolorizing Carbon, charcoal",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/242276?userType=anonymous"
+  },
+  {
+    "CAS": "7440-50-8",
+    "Name": "Copper",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/774081?userType=anonymous"
+  },
+  {
+    "CAS": "7440-66-6",
+    "Name": "Zinc Granular",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "G5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/209988?userType=anonymous"
+  },
+  {
+    "CAS": "7440-66-6",
+    "Name": "Zinc shot",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "G5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/209988?userType=anonymous"
+  },
+  {
+    "CAS": "7440-70-2",
+    "Name": "Calcium",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/441872?srsltid=AfmBOorsAmDQbk3iDyduVuZ0FcxplIFvMjGxH--_OuE2_SQtn-RKVaQw"
+  },
+  {
+    "CAS": "7447-40-7",
+    "Name": "Potassium Chloride",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/p3911?userType=anonymous"
+  },
+  {
+    "CAS": "7487-88-9",
+    "Name": "Magnesium sulfate (anhydrous)",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/m7506?userType=anonymous"
+  },
+  {
+    "CAS": "75-05-8",
+    "Name": "Acetonitrile",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/271004?userType=undefined"
+  },
+  {
+    "CAS": "75-09-2",
+    "Name": "Dichloromethane",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/l090000?userType=anonymous"
+  },
+  {
+    "CAS": "75-65-0",
+    "Name": "Butyl alcohol, t, tertiary-Butanol",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J2",
+    "URL": "https://greenfield.com/wp-content/uploads/2018/11/Butyl-Alcohol-tert.pdf"
+  },
+  {
+    "CAS": "75-65-0",
+    "Name": "Tert-butyl alcohol",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/SIAL/471712?srsltid=AfmBOoq70bygCz8gceh-lQVaGOWqdVKXq2wnyXxb8XKsojhqLr-LrnMb"
+  },
+  {
+    "CAS": "75-85-4",
+    "Name": "Tert-amyl alcohol, 2-methyl-2-butanol",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/240486?userType=undefined"
+  },
+  {
+    "CAS": "7553-56-2",
+    "Name": "iodine solution",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Micro cabinet (Ivey 203)",
+    "Sub-location": "D4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/207772?userType=undefined"
+  },
+  {
+    "CAS": "7558-79-4",
+    "Name": "Sodium Phosphate Dibasic",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/s9763?userType=anonymous"
+  },
+  {
+    "CAS": "76-03-9",
+    "Name": "trichloroacetic acid",
+    "Type": "Chemical",
+    "Category": "purple (acid)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "I3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/8.22342"
+  },
+  {
+    "CAS": "76-03-9",
+    "Name": "Trichloroacetic Acid",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M3",
+    "URL": "https://www.sigmaaldrich.com/US/pt/sds/sigma/t0699?userType=undefined"
+  },
+  {
+    "CAS": "76-05-1",
+    "Name": "Trifluoroacetic Acid",
+    "Type": "Chemical",
+    "Category": "purple (acid)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "I3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/t6508?userType=anonymous"
+  },
+  {
+    "CAS": "76-59-5",
+    "Name": "Bromothymol blue",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C3",
+    "URL": "https://www.thermofisher.in/store/msds?partNumber=B/4690/44&countryCode=IN&language=en&brand=Fisher%20Chemical"
+  },
+  {
+    "CAS": "7631-99-4",
+    "Name": "Sodium Nitrate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/s5506?userType=anonymous"
+  },
+  {
+    "CAS": "7632-00-0",
+    "Name": "Sodium Nitrite",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/563218?userType=anonymous"
+  },
+  {
+    "CAS": "7646-79-9",
+    "Name": "Cobalt (II) chloride",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/232696?userType=anonymous "
+  },
+  {
+    "CAS": "7646-85-7",
+    "Name": "Zinc chloride",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/208086"
+  },
+  {
+    "CAS": "7647-01-0",
+    "Name": "Hydrochloric acid",
+    "Type": "Chemical",
+    "Category": "purple (acid)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "I2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/258148"
+  },
+  {
+    "CAS": "7647-01-0",
+    "Name": "Hydrochloric acid",
+    "Type": "Chemical",
+    "Category": "purple (acid)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "CW box",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/258148"
+  },
+  {
+    "CAS": "7647-14-5",
+    "Name": "Sodium Chloride",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/s9888?userType=anonymous"
+  },
+  {
+    "CAS": "7647-17-8",
+    "Name": "Cesium Chloride",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/51869"
+  },
+  {
+    "CAS": "7664-38-2",
+    "Name": "Phosphoric acid",
+    "Type": "Chemical",
+    "Category": "purple (acid)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "I3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/695017?userType=anonymous"
+  },
+  {
+    "CAS": "7664-93-9",
+    "Name": "Sulfuric Acid",
+    "Type": "Chemical",
+    "Category": "purple (acid)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "I2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/258105?userType=anonymous"
+  },
+  {
+    "CAS": "7681-11-0",
+    "Name": "Potassium Iodide",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/221945?userType=anonymous"
+  },
+  {
+    "CAS": "7681-49-4",
+    "Name": "Sodium Fluoride",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/450022?userType=anonymous"
+  },
+  {
+    "CAS": "7697-37-2",
+    "Name": "Nitric Acid",
+    "Type": "Chemical",
+    "Category": "purple (acid)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "I1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/438073?userType=anonymous"
+  },
+  {
+    "CAS": "77-09-8",
+    "Name": "Phenolphthalein",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/1.07233?userType=anonymous"
+  },
+  {
+    "CAS": "77-86-1",
+    "Name": "Tris(Hydroxymethyl)aminoethane Trizma Base",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/t1503?userType=anonymous"
+  },
+  {
+    "CAS": "77-92-9",
+    "Name": "Citric Acid",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/27109?userType=anonymous"
+  },
+  {
+    "CAS": "7705-08-0",
+    "Name": "Iron Ferric Chloride",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/157740?userType=anonymous"
+  },
+  {
+    "CAS": "7722-64-7",
+    "Name": "Potassium Permanganate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/223468?userType=anonymous"
+  },
+  {
+    "CAS": "7722-84-1",
+    "Name": "Hydrogen Peroxide 12%",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "REF1",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AC464570010&countryCode=US&language=en"
+  },
+  {
+    "CAS": "7722-84-1",
+    "Name": "Hydrogen Peroxide 30%",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Prep Area (Ivey 203)",
+    "Sub-location": "REF1",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=BP2633500&productDescription=HYDROGEN+PEROXIDE+30%25%2C+500ML&vendorId=VN00033897&countryCode=US&language=en"
+  },
+  {
+    "CAS": "7722-84-1",
+    "Name": "Hydrogen Peroxide 30%",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A1",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=BP2633500&productDescription=HYDROGEN+PEROXIDE+30%25%2C+500ML&vendorId=VN00033897&countryCode=US&language=en"
+  },
+  {
+    "CAS": "7726-95-6",
+    "Name": "Bromine",
+    "Type": "Chemical",
+    "Category": "White (corrosive)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/470864?userType=anonymous"
+  },
+  {
+    "CAS": "7727-21-1",
+    "Name": "Potassium Persulfate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/216224?userType=anonymous"
+  },
+  {
+    "CAS": "7727-21-1",
+    "Name": "Potassium Persulfate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Ivey 102B",
+    "Sub-location": "O2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/379824?srsltid=AfmBOop5EgybmKzoiooRT7Us5Zk0FXTrBca9Kh0v35MZDsNDKtVhdt40"
+  },
+  {
+    "CAS": "7727-54-0",
+    "Name": "Ammonium persulfate, ammonium peroxydisulfate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/248614?userType=anonymous"
+  },
+  {
+    "CAS": "7727-73-3",
+    "Name": "sodium sulfate, decahydrate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/s0778"
+  },
+  {
+    "CAS": "7757-79-1",
+    "Name": "Potassium Nitrate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/221295?userType=anonymous"
+  },
+  {
+    "CAS": "7757-79-1",
+    "Name": "Potassium Nitrate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/221295?userType=anonymous"
+  },
+  {
+    "CAS": "7757-82-6",
+    "Name": "Sodium Sulfate, Anhydrous",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F2",
+    "URL": "https://www.sigmaaldrich.cn/US/en/sds/sigald/31481"
+  },
+  {
+    "CAS": "7757-83-7",
+    "Name": "Sodium Sulfite",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/239321?userType=anonymous"
+  },
+  {
+    "CAS": "7758-01-2",
+    "Name": "Potassium bromate",
+    "Type": "Chemical",
+    "Category": "White (corrosive)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/309087"
+  },
+  {
+    "CAS": "7758-05-6",
+    "Name": "Potassium iodate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A2",
+    "URL": "https://www.sigmaaldrich.cn/US/en/sds/sigald/215929"
+  },
+  {
+    "CAS": "7758-09-0",
+    "Name": "Potassium Nitrite",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A2",
+    "URL": "310484"
+  },
+  {
+    "CAS": "7758-11-4",
+    "Name": "Potassium Phosphate Dibasic",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/p3786?userType=anonymous"
+  },
+  {
+    "CAS": "7758-98-7",
+    "Name": "Copper(II) Sulfate, 5-Hydrate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/209198?userType=anonymous"
+  },
+  {
+    "CAS": "7761-88-8",
+    "Name": "Silver Nitrate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/209139?userType=anonymous"
+  },
+  {
+    "CAS": "7772-98-7",
+    "Name": "Sodium thiosulfate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/217263?userType=anonymous"
+  },
+  {
+    "CAS": "7775-14-6",
+    "Name": "Sodium Dithionite",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/157953?srsltid=AfmBOorLN8cmr95IbJsfvo7Bhq6LW8Qk90_kuGDx6n9-IVyqaVEx6EMu"
+  },
+  {
+    "CAS": "7775-27-1",
+    "Name": "Sodium persulfate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/71889?userType=anonymous"
+  },
+  {
+    "CAS": "7778-18-9",
+    "Name": "Calcium Sulfate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/238988?userType=anonymous"
+  },
+  {
+    "CAS": "7778-50-9",
+    "Name": "Potassium Dichromate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A1",
+    "URL": "207802"
+  },
+  {
+    "CAS": "7778-77-0",
+    "Name": "Potassium Phosphate Monobasic, Potassium dihydrogen phosphate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sublocation": "E4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/p0662?userType=anonymous"
+  },
+  {
+    "CAS": "7778-77-0",
+    "Name": "Potassium Phosphate Monobasic, Potassium dihydrogen phosphate",
+    "Type": "",
+    "Category": "Green (general)",
+    "Location": "Ivey 102A",
+    "Sub-location": "",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/p0662?userType=anonymous"
+  },
+  {
+    "CAS": "7782-61-8",
+    "Name": "Iron Ferric Nitrate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A1",
+    "Requested By": "Teriko Macconnell",
+    "URL": "216828"
+  },
+  {
+    "CAS": "7782-63-0",
+    "Name": "Iron Ferrous Sulfate Heptahydrate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/f7002?userType=anonymous"
+  },
+  {
+    "CAS": "7783-20-2",
+    "Name": "Ammonium Sulfate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/a4915?userType=anonymous"
+  },
+  {
+    "CAS": "7783-34-8",
+    "Name": "Mercuric nitrate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/83381?userType=anonymous"
+  },
+  {
+    "CAS": "7783-85-9",
+    "Name": "Iron(II) ammonium sulfate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/215406?userType=anonymous"
+  },
+  {
+    "CAS": "7784-46-5",
+    "Name": "Sodium meta arsenite",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/s7400"
+  },
+  {
+    "CAS": "7786-30-3",
+    "Name": "Magnesium Chloride",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/m9272?userType=anonymous"
+  },
+  {
+    "CAS": "7786-81-4",
+    "Name": "Nickel Sulfate",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/656895?userType=anonymous"
+  },
+  {
+    "CAS": "7789-38-0",
+    "Name": "sodium bromate",
+    "Type": "Chemical",
+    "Category": "Yellow (oxidizer)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "A2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/224871?userType=anonymous"
+  },
+  {
+    "CAS": "78-70-6",
+    "Name": "Linalool",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/l2602?userType=anonymous"
+  },
+  {
+    "CAS": "78-86-4",
+    "Name": "Chlorobutane, 2",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/c28898?userType=undefined"
+  },
+  {
+    "CAS": "78-92-2",
+    "Name": "Butanol, 2, sec-Butyl Alcohol",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J2",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AA43315AK&productDescription=2-BUTANOL+ANHYD+99.9%25+250ML&vendorId=VN00024248&countryCode=US&language=en"
+  },
+  {
+    "CAS": "78-93-3",
+    "Name": "Methyl Ethyl Ketone, 2 Butanone",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J2",
+    "URL": "https://www.sigmaaldrich.com/US/zh/sds/aldrich/w217018?srsltid=AfmBOoosJH4SB-UaYt-A7ol0_nC2c_nGFfxgdl5GdUriG2LvML2bvsYe"
+  },
+  {
+    "CAS": "7803-55-6",
+    "Name": "Ammonium vanadium oxide, ACS, 99.0% min",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/398128?userType=anonymous"
+  },
+  {
+    "CAS": "79-06-1",
+    "Name": "Acrylamide",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/saj/01-1299?userType=anonymous"
+  },
+  {
+    "CAS": "79-09-4",
+    "Name": "Propionic Acid",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/w292419?srsltid=AfmBOook3YFONK02cJmmVLDgC6Fs80im479DAu3Jo5plFaiCYofnL6bJ"
+  },
+  {
+    "CAS": "79-20-9",
+    "Name": "Methyl Acetate",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/w267600?srsltid=AfmBOoqqR8zCntZTSa2p57SxicUQ-M0xK1mkXl1GywAQPq80bFfXQ0sk"
+  },
+  {
+    "CAS": "79-33-4",
+    "Name": "L-Lactic Acid, ACS Grade",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Prep Area (Ivey 203)",
+    "Sub-location": "REF1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/l1750?userType=anonymous"
+  },
+  {
+    "CAS": "80-56-8",
+    "Name": "alpha-Pinene",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K1",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AC164362500&countryCode=US&language=en"
+  },
+  {
+    "CAS": "8005-03-6",
+    "Name": "Nigrosin",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/198285?userType=anonymous"
+  },
+  {
+    "CAS": "8005-03-6",
+    "Name": "Nigrosin, 5% stain",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "micro",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/198285?userType=anonymous"
+  },
+  {
+    "CAS": "8012-89-3",
+    "Name": "Beeswax",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/243221?userType=anonymous"
+  },
+  {
+    "CAS": "8012-95-1",
+    "Name": "Paraffin Oil",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/px0047?userType=anonymous"
+  },
+  {
+    "CAS": "8013-01-2",
+    "Name": "Bacto Yeast",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Prep Area (Ivey 203)",
+    "Sub-location": "N1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/y1625?userType=anonymous"
+  },
+  {
+    "CAS": "8017-16-1",
+    "Name": "Polyphosphoric acid, phosphorus pentoxide",
+    "Type": "Chemical",
+    "Category": "purple (acid)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "I3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigald/398608"
+  },
+  {
+    "CAS": "83-88-5",
+    "Name": "Riboflavin",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E5",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/r4500?userType=anonymous"
+  },
+  {
+    "CAS": "85-83-6",
+    "Name": "Sudan IV",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/198102?userType=anonymous"
+  },
+  {
+    "CAS": "867-56-1",
+    "Name": "Sodium L-lactate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A) + R4",
+    "Sub-location": "F1 + top shelf",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/l7022"
+  },
+  {
+    "CAS": "877-24-7",
+    "Name": "Potassium Hydrogen Phthalate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/1.04874?userType=anonymous"
+  },
+  {
+    "CAS": "88-04-0",
+    "Name": "4-chloro-3,5-dimethylphenol",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B2",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AC109061000&productDescription=4-CHLORO-3%2C5-DIMETHYLPHE+100GR&vendorId=VN00032119&countryCode=US&language=en "
+  },
+  {
+    "CAS": "88-99-3",
+    "Name": "Phthalic Acid",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/402915?userType=anonymous"
+  },
+  {
+    "CAS": "90-15-3",
+    "Name": "Naphthol, 1",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/n1000?userType=anonymous"
+  },
+  {
+    "CAS": "9000-71-9",
+    "Name": "Casein",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/c7078?userType=anonymous"
+  },
+  {
+    "CAS": "9000-90-2",
+    "Name": "Amylase",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/a2771?userType=anonymous"
+  },
+  {
+    "CAS": "9000-90-2",
+    "Name": "Amylase  ",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "CW box",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/a2771?userType=anonymous"
+  },
+  {
+    "CAS": "9000-90-2",
+    "Name": "Amylase powder",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/a2771?userType=anonymous"
+  },
+  {
+    "CAS": "9001-05-2",
+    "Name": "Liver Powder",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "D5",
+    "URL": "https://www.oxfordlabchem.com/msds/(L-05378)LIVER%20EXTRACT%20POWDER%20(For%20Bacteriology).pdf"
+  },
+  {
+    "CAS": "9001-62-1",
+    "Name": "Lipase",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Ivey 203",
+    "Sub-location": "R5",
+    "URL": "https://www.carolina.com/pdf/msds/lipaseghs.pdf"
+  },
+  {
+    "CAS": "9001-75-6",
+    "Name": "Pepsin",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "CW box",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/SIGMA/P7000?sdslanguage=EN"
+  },
+  {
+    "CAS": "9002-07-7",
+    "Name": "Trypsin",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "CW box",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/t4799?userType=anonymous"
+  },
+  {
+    "CAS": "9002-10-2",
+    "Name": "Tyrosinase from Mushroom",
+    "Type": "Enzyme",
+    "Category": "Green (general)",
+    "Location": "Cold room",
+    "Sub-location": "",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/t3824"
+  },
+  {
+    "CAS": "9002-10-2",
+    "Name": "Tyrosinase from Mushroom",
+    "Type": "Enzyme",
+    "Category": "Green (general)",
+    "Location": "102 Freezer, -20",
+    "Sub-location": "",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/t3824"
+  },
+  {
+    "CAS": "9002-18-0",
+    "Name": "Agar",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Prep Area (Ivey 203)",
+    "Sub-location": "N1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/a1296?userType=anonymous"
+  },
+  {
+    "CAS": "9002-23-7",
+    "Name": "Amberlite",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "C1",
+    "URL": "https://www.spectrumchemical.com/media/sds/A3727.pdf"
+  },
+  {
+    "CAS": "9005-64-5",
+    "Name": "Tween 20",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/p9416?userType=anonymous"
+  },
+  {
+    "CAS": "9005-65-6",
+    "Name": "Tween 80",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F4",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/8.17061"
+  },
+  {
+    "CAS": "9005-84-9",
+    "Name": "Starch, Soluble",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "F2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/mm/1.01252?userType=anonymous"
+  },
+  {
+    "CAS": "9012-36-6",
+    "Name": "Agarose",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Prep Area (Ivey 203)",
+    "Sub-location": "N1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/a9539?userType=anonymous"
+  },
+  {
+    "CAS": "9048-46-8",
+    "Name": "Albumin, Bovine",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "R3",
+    "Sub-location": "2nd shelf",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sigma/a7030?userType=anonymous"
+  },
+  {
+    "CAS": "91-16-7",
+    "Name": "Veratrole ≥99%",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M3",
+    "URL": "https://www.fishersci.com/store/msds?partNumber=AC161115000&countryCode=US&language=en"
+  },
+  {
+    "CAS": "91-20-3",
+    "Name": "Naphthalene",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "E2",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/147141?userType=anonymous"
+  },
+  {
+    "CAS": "91-56-5",
+    "Name": "Isatin",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/114618?userType=anonymous"
+  },
+  {
+    "CAS": "91079-44-6",
+    "Name": "Lactalbumin Hydrolysate",
+    "Type": "Chemical",
+    "Category": "Green (general)",
+    "Location": "Prep Area (Ivey 203)",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/sial/61300?userType=anonymous"
+  },
+  {
+    "CAS": "93-58-3",
+    "Name": "Methyl Benzoate",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/w268305?userType=undefined"
+  },
+  {
+    "CAS": "96-22-0",
+    "Name": "Pentanone,3, Diethyl Ketone",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "M1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/w510106?userType=undefined"
+  },
+  {
+    "CAS": "98-01-1",
+    "Name": "Furaldehyde, Furfural, Furan-2-carboxaldehyde",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "K3",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/w248924?userType=undefined"
+  },
+  {
+    "CAS": "98-06-6",
+    "Name": "Butylbenzene, t",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J2",
+    "URL": "https://www.sigmaaldrich.com/US/pt/sds/aldrich/b90602?userType=undefined"
+  },
+  {
+    "CAS": "98-82-8",
+    "Name": "cumene",
+    "Type": "Chemical",
+    "Category": "Red (flammable)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "J3",
+    "URL": "https://www.sigmaaldrich.com/US/de/sds/ALDRICH/C87657?userType=undefined"
+  },
+  {
+    "CAS": "99-09-2",
+    "Name": "3-Nitroaniline",
+    "Type": "Chemical",
+    "Category": "Blue (health)",
+    "Location": "Chem Storeroom (Ivey 203A)",
+    "Sub-location": "B1",
+    "URL": "https://www.sigmaaldrich.com/US/en/sds/aldrich/n9829?userType=anonymous"
+  }
+]
